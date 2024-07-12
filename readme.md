@@ -1,0 +1,1 @@
+This is a template of project using Rest Assured and TestNG. It is a simple project that tests the API of the site https://reqres.in/. The project has a simple structure and is easy to understand. It is a good starting point for those who want to learn how to test APIs using Rest Assured and TestNG.
