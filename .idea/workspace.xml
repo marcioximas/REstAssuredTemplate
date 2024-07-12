@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d7ac1b98-7b59-40ad-9fbb-dd21e1f7293d" name="Changes" comment="" />
+=======
+    <list default="true" id="d7ac1b98-7b59-40ad-9fbb-dd21e1f7293d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+>>>>>>> b79a877b34b1007d7ef243621d4bbfc60d0453ba
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
